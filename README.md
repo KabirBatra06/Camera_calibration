@@ -492,3 +492,38 @@ z
 $$
 
 Now we plot the $z$ values for all the $x$ and $y$ values in a 10-pixel radius of the camera center.
+
+# Results
+
+## Finding Edges
+
+<p align="center">
+  <img src="https://github.com/KabirBatra06/Camera_calibration/blob/main/edges/edges_Pic_1.jpg" width="350" title="img1">
+</p>
+  
+## Forming Lines
+
+<p align="center">
+  <img src=https://github.com/KabirBatra06/Camera_calibration/blob/main/lines/lines_Pic_1.jpg width="350" title="img1">
+</p>
+
+## Finding and Labeling Points
+
+<p align="center">
+  <img src="https://github.com/KabirBatra06/Camera_calibration/blob/main/points/points_Pic_1.jpg" width="350" title="img1">
+</p>
+
+## Reconstructed Points After Camera Calibration
+
+<p align="center">
+  <img src="https://github.com/KabirBatra06/Camera_calibration/blob/main/recon/recon_Pic_1.jpg" width="350" title="img1">
+</p>
+
+## Reconstructed 3D View Of Camera Locations
+
+<p align="center">
+  <img src="https://github.com/KabirBatra06/Camera_calibration/blob/main/given_dataset_3d.png" height="500" width="550" title="img1">
+</p>
+<p align=center>
+  <img src="https://github.com/KabirBatra06/Camera_calibration/blob/main/given_dataset_3d_2.png" height="500" width="550" title="img1">
+</p>
